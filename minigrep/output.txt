@@ -1,6 +1,6 @@
 Rust example of grep mini simple version!
 Is case sensitive: false
-Searching for: TO
+Searching for: to
 In file: data.txt
 Searching via case insensitive.
 Results:
