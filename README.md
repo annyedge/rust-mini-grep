@@ -1,2 +1,7 @@
 # rust-mini-grep
-An I/O Project: Building a Command Line Program
+Rust mini grep project from the book "The Rust Programming Language"
+
+## Run
+```bash
+IS_CASE_SENSITIVE=1 cargo run -- to data.txt > output.txt
+```
